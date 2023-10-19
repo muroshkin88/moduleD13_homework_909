@@ -1,0 +1,6 @@
+Django
+django-filter
+APScheduler
+django-allauth
+django_apscheduler
+python3 -m pip install Pillow
